@@ -37,7 +37,7 @@
     "nestjs-mongoose-crud": "^1.2.2",
     "nestjs-typegoose": "^7.0.0",
     "next": "^9.2.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0",
