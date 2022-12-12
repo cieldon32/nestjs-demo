@@ -22,7 +22,7 @@
     "@nestjs/graphql": "^6.6.2",
     "@nestjs/jwt": "^6.1.1",
     "@nestjs/passport": "^6.1.1",
-    "@nestjs/platform-express": "^6.10.14",
+    "@nestjs/platform-express": "^9.2.1",
     "@nestjs/platform-socket.io": "^6.11.1",
     "@nestjs/platform-ws": "^6.11.1",
     "@nestjs/websockets": "^6.11.1",
